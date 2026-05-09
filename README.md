@@ -1,2 +1,2 @@
-# informatica_integral
+# informatica_general
 
